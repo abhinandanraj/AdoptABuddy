@@ -1,0 +1,22 @@
+breed_id,allergies,veterinarian,vaccination_date
+1,Beef,Chirag Patel,08-06-2020
+2,Dairy,Chirag Patel,21-06-2020
+3,Soy,Chirag Patel,07-10-2020
+4,Chicken,Chirag Patel,01-02-2020
+5,Lamb,Chirag Patel,21-08-2020
+6,Pork,Chirag Patel,20-09-2020
+7,Grass,Darhshil Rana,16-11-2019
+8,Mold,Darhshil Rana,05-11-2019
+9,Fleas,Darhshil Rana,25-02-2020
+10,Cigratte Smokes,Darhshil Rana,06-11-2019
+11,Fabrics,Darhshil Rana,04-02-2020
+12,Pollen,Darhshil Rana,19-11-2019
+13,Wheat,Brooke Yagami,30-07-2020
+14,Corn,Brooke Yagami,05-03-2020
+15,Soy,Brooke Yagami,14-06-2020
+16,Hair spray,Brooke Yagami,19-08-2020
+17,Alum,Marlin Rudolph,21-07-2020
+18,Canola,Marlin Rudolph,07-09-2020
+19,Rice Bran,Marlin Rudolph,17-08-2020
+20,Meat bone,Marlin Rudolph,29-02-2020
+21,Shrimp,Marlin Rudolph,07-11-2019

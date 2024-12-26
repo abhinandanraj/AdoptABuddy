@@ -1,0 +1,26 @@
+animal_id,customer_id,date,payment_mode,adoption_info
+14,56,02-11-2020,cash,animal
+67,28,20-08-2020,card,animal
+39,17,23-04-2020,card,animal
+,35,13-04-2020,cash,food packets
+56,43,25-07-2020,cash,animal
+38,47,09-01-2020,card,animal
+41,62,19-09-2020,cash,animal
+,90,14-12-2019,card,belts
+,96,16-11-2020,cash,cage
+2,38,16-05-2020,cash,animal
+87,52,21-09-2020,cash,animal
+1,48,03-10-2020,cash,animal
+,22,26-11-2020,card,medicines
+7,99,26-05-2020,card,animal
+85,46,18-04-2020,card,animal
+94,13,27-08-2020,card,animal
+,84,26-11-2020,cash,belts
+58,74,11-05-2020,cash,animal
+11,75,03-01-2020,card,animal
+27,29,11-08-2020,card,animal
+100,57,20-04-2020,card,animal
+,94,20-02-2020,cash,food packets
+74,14,09-08-2020,cash,animal
+63,76,06-10-2020,cash,animal
+32,66,23-01-2020,cash,animal
